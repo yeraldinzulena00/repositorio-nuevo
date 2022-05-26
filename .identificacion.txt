@@ -1,2 +1,6 @@
 1056954021
+<<<<<<< HEAD
 Hola mundo
+=======
+hola mundo
+>>>>>>> pruebas
